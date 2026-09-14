@@ -47,13 +47,13 @@ Setelah mengikuti pertemuan ini, mahasiswa mampu:
 - Perkenalan dosen, silabus singkat, dan gambaran besar mata kuliah: *"Semester ini kita akan belajar Python selama 7 minggu pertama, lalu memakainya untuk menganalisis data operasional pembangkit listrik di 7 minggu berikutnya."*
 - **Diagnostik non-nilai** (5–7 soal singkat, bisa lisan/Mentimeter/kertas) untuk memetakan kemampuan logika dasar mahasiswa sebelum masuk materi, contoh soal:
   - Urutkan langkah membuat kopi menjadi langkah-langkah bernomor (mengukur pemahaman *sequence*).
-  - Jika suhu > 100°C maka air mendidih, jika tidak maka belum mendidih — mahasiswa diminta menyatakan ulang dengan kalimat "jika... maka..." untuk kasus lain (mengukur pemahaman *kondisional* dasar).
+  - Jika suhunya > 100°C maka air mendidih, jika tidak maka belum mendidih — mahasiswa diminta menyatakan ulang dengan kalimat "jika... maka..." untuk kasus lain (mengukur pemahaman *kondisional* dasar).
   - Tanya siapa yang sudah pernah menulis kode (bahasa apa saja) — untuk pemetaan kelompok bantu-sebaya nantinya.
 - Hasil diagnostik **tidak dinilai**, hanya dipakai dosen untuk menyesuaikan kecepatan mengajar dan membentuk kelompok kerja berpasangan yang heterogen.
 
 ### B. Mengapa Python untuk Rekayasa Pembangkit? + Sejarah & Perbandingan Python (25 menit)
 
-**B.1 Konteks industri (5 menit)**
+**B.1 Konteks industri (5-menit)**
 
 Poin diskusi singkat (bisa disertai gambar/contoh dashboard):
 
@@ -252,12 +252,3 @@ Mahasiswa diminta mencoba di rumah: membuat program yang meminta 4 data operasi 
 - [3] Matthes, E., *Python Crash Course*, 3rd Edition, Bab 1–2 (variabel & tipe data)
 - [4] Raharjo, B., *Logika dan Algoritma Pemrograman Menggunakan Python*, Bab 1–2
 
----
-
-## 7. Perlengkapan yang Perlu Disiapkan Dosen
-
-- [ ] Notebook Colab template kosong (link dibagikan sebelum kelas)
-- [ ] Slide singkat: alur besar mata kuliah (peta CLO-1 s/d CLO-5) + contoh dashboard data pembangkit untuk bagian B
-- [ ] Soal diagnostik (bisa via Mentimeter/Google Form/kertas)
-- [ ] Lembar instruksi studi kasus berpasangan (bagian H) — bisa dicetak atau dibagikan lewat LMS
-- [ ] Link pengumpulan (Google Classroom/LMS) untuk journal + link Colab pasangan

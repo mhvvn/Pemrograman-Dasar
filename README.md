@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Pemrograman Dasar - RPE311
 
 ## Versi Indonesia
@@ -132,3 +133,6 @@ Upon completion of this course, the student will be able to:
 - RPS documents and lecture planning
 - Weekly learning materials archive
 - Supporting materials for study activities
+=======
+# basic_programming
+>>>>>>> 1c378670f10f8c3ddc3c3c9130c6db541de28cdb
