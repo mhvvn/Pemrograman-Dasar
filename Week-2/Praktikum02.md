@@ -313,4 +313,25 @@ Tugas: (a) cetak pembacaan **pertama** dan **terakhir** memakai indeks, (b) tamb
 
 ### Latihan 5 — Dictionary *(sedang)*
 
-B
+Buat dictionary spesifikasi sebuah motor listrik (minimal: `nama`, `daya_kW`, `tegangan_V`, `rpm`). Cetak salah satu nilai lewat key-nya, lalu **ubah** nilai `rpm` (pakai `=`), dan cetak ulang seluruh dictionary.
+
+```python
+# Jawaban Latihan 5
+
+```
+
+### Latihan 6 — Gabungan *(menantang)*
+
+Kelola data **tiga** unit pembangkit sebagai **list of dictionary**, tiap unit berisi `nama`, `kapasitas_MW`, dan `status`. Tugas: cetak **nama unit kedua**, **ubah** `status` salah satu unit, **tambahkan** satu unit baru ke list dengan `append()`, lalu cetak seluruh data.
+
+```python
+# Jawaban Latihan 6
+pembangkit = [
+    {"nama": "Unit-1", "kapasitas_MW": 100, "status": "operasi"},
+    {"nama": "Unit-2", "kapasitas_MW": 150, "status": "operasi"},
+    {"nama": "Unit-3", "kapasitas_MW": 80,  "status": "pemeliharaan"},
+]
+
+```
+
+---
