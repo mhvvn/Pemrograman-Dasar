@@ -1,7 +1,5 @@
 # Soal Operator pada Python
 
-## Bagian A. Soal Cerita
-
 ### Soal 1 : Belanja Buku
 
 Budi membeli **7 buku** dengan harga **Rp 18.500** per buku. Toko memberi diskon **10%** dari total belanja. Budi membayar dengan uang **Rp 150.000**.
