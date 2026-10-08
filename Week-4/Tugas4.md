@@ -9,6 +9,7 @@ Tentukan:
 2. Uang kembalian.
 3. Jika jumlah yang dibayar dipatungi **4 orang** secara adil dalam bilangan bulat, berapa iuran per orang dan berapa rupiah sisanya?
 4. Apakah uang Budi cukup? (hasil `True`/`False`)
+5. Gunakan Fungsi Input
 
 **Jawaban**
 
@@ -40,6 +41,7 @@ Tentukan:
 2. Energi per bulan (30 hari) dan nilai rupiah listrik yang dihasilkan.
 3. Kekurangan energi per hari terhadap kebutuhan.
 4. Apakah PLTS sudah mencukupi kebutuhan rumah? (`True`/`False`)
+5. Gunakan Fungsi Input
 
 **Jawaban**
 
@@ -69,6 +71,7 @@ Tentukan:
 3. Berapa hari penuh tangki cukup, dan berapa liter solar yang tersisa?
 4. Rugi daya pada kabel (`P = I² × R`).
 5. Apakah rugi kabel tergolong tinggi, yaitu lebih dari 150 W **dan** arus minimal 20 A? (`True`/`False`)
+5. Gunakan Fungsi Input
 
 **Jawaban**
 
